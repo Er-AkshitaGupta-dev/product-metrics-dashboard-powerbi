@@ -15,8 +15,7 @@ This project focuses on analyzing sales and product performance using Power BI.
 - Excel (data preparation)
 
 ## 📷 Dashboard Preview
-![Dashboard] (<img width="958" height="539" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/2483551b-d261-42ad-a7c7-dc0b34aad181" />
-)
+<img width="958" height="539" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/2483551b-d261-42ad-a7c7-dc0b34aad181" />
 
 ## 🔍 Insights
 - Identified top-performing products and regions
